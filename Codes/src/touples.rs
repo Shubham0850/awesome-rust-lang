@@ -23,4 +23,17 @@ fn main() {
     println!("Name: {}", name);
     println!("Age: {}", age);
     println!("Is Student: {}", is_student);
+
+    // Tuples can be tuple members.
+    let tuple_of_tuples = ((1u8, 2u16, 2u32), (4u64, -1i8), -2i16);
+
+    // Tuples are printable.
+    println!("Pair is {:?}", tuple_of_tuples);
+
+    // But long Tuples ( more than 12 elements ) cannot be printed.
+    // let too_long_tuple = (1, 3, 4, 5, 23, 12, 13, 12, 543, 23, 121, 334, 123);
+
+    
+
+    println!("Too long touples {:?}", too_long_tuple)
 }
