@@ -1,0 +1,24 @@
+# Rust/Cargo generated files
+/target/
+Cargo.lock
+
+# Executables
+**/target/debug/
+**/target/release/
+
+# Build output
+build/
+dist/
+
+# Editor/IDE specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Dependency directories
+**/Cargo.toml.orig
+**/.cargo/
+
+# macOS specific files
+.DS_Store
