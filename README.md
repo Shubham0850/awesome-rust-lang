@@ -29,7 +29,16 @@ Note: "Rustaceans" is a term often used to refer to enthusiasts and users of the
 - [🏋️‍♂️ Rust programming excercises that help you learn new concepts](https://exercism.org/tracks/rust)
 - [👩‍🍳 Rust Cookbook](https://exercism.org/tracks/rust)
 - [💪 Rust Gym: Leetcode solutions, Advent of Code Solutions in Rust and more](https://rustgym.com/)
-- [🤖 The Crust of Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
-- [🦿 A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 - [🤙 Welcome to Comprehensive Rust by Google](https://google.github.io/comprehensive-rust/welcome.html)
+
+## 🎬 Video Playlists and Links
+
+- [🤖 The Crust of Rust](https://www.youtube.com/playlist?list=PLqbS7AVVErFiWDOAVrPt7aYmnuuOLYvOa)
+
+## 🔴 Important Articles
+
+- [🦿 A half-hour to learn Rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+
+## ⚙️ Resources on Rust Project-Development
+
 - [👀 Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
